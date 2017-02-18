@@ -1,5 +1,5 @@
-pywikimedia
-===========
+pywikim
+=======
 
 This library is a client API for several APIs from the WikiMedia
 fundation.  It is organized into the following modules:
